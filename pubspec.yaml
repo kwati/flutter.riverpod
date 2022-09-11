@@ -1,0 +1,22 @@
+name: khalti_riverpod
+description: Khalti wrapper for riverpod
+version: 1.0.0
+homepage: null
+
+environment:
+  sdk: '>=2.17.6 <3.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^1.0.4
+  logger: ^1.1.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter: null
